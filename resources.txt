@@ -1,0 +1,12 @@
+Aluminium
+Copper
+Iron
+Gold
+Sliver
+Coal
+Lead
+Nickel
+Osmium
+Platinum
+Tin
+Cobalt

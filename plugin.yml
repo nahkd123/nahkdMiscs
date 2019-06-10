@@ -1,0 +1,31 @@
+name: nahkdMiscs
+author: nahkd123
+version: 1.0.0
+main: me.nahkd.spigot.miscs.nahkdMiscs
+softdepend: [Multiverse-Core]
+
+commands:
+  nmts:
+    description: Test command but no help avaliable for it
+    usage: Better to decompile this
+    permission: nahkdmiscs.dev.test
+  nmadmin:
+    description: The administrators command
+    usage: /nmadmin
+    permission: nahkdmiscs.general.admin
+  nahkdmiscs:
+    description: The most interesting thing
+    aliases: [nm]
+    usage: /nahkdmiscs
+    permission: nahkdmiscs.general.okhand
+    
+permissions:
+  nahkdmiscs.general.admin:
+    description: Administrator only contents
+    default: op
+  nahkdmiscs.general.okhand:
+    description: The default permission for everyone
+    default: true
+  nahkdmiscs.dev.test:
+    description: Testing things
+    default: op

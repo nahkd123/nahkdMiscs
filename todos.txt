@@ -1,0 +1,3 @@
+[ ] Custom Crafting Table
+[o] Finished Nature & Gardening Section
+[ ] Finished Cobblestone Resource Section
