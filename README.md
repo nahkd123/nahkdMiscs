@@ -8,3 +8,4 @@ nahdMiscs is a Spigot plugin, where everything is about technology and power. Ev
 - [Wiki](https://github.com/nahkd123/nahkdMiscs/wiki)
 - [Issues](https://github.com/nahkd123/nahkdMiscs/issues)
 - [Submit Issues (The form is in Vietnamese)](https://docs.google.com/forms/d/e/1FAIpQLSdN1b4HE5d9q9CDFVOGTpQmfsP4bENmIiAU0qcYSOw-5n6cLQ/viewform)
+ - [Discord support server](https://discord.gg/2JxDED4)
